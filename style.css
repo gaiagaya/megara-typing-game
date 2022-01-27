@@ -1,0 +1,15 @@
+.error {
+    background-color: red
+}
+
+span:after {
+    content: "";
+    display: inline-block;
+    width: 5px;
+}
+
+.highlight {
+    color: #ffc312;
+    text-decoration: underline;
+}
+
