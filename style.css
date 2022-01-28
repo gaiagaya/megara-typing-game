@@ -137,7 +137,9 @@ footer {
     background-color: white;
     color: #acada8;
     text-align: center;
-   flex-shrink: 0;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
 }
 
 header {
